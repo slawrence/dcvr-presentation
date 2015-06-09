@@ -12,11 +12,12 @@ definition goes here
 An example
 
 
-When combined with a virtual reality headset 360 video is compelling.
-Demos
+Web and VR
 
+Early days - vr.js
+NPAPI plugin
+Developed for Netscape browsers starting in 1995
 
-How is it created
 
 
 
